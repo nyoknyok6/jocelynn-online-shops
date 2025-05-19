@@ -1,0 +1,3 @@
+pewarnaan 
+primary color :#F4EDD3
+secondary color: #D9EAFD
